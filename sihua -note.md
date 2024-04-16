@@ -2,4 +2,6 @@
 
 [2. 统一流形逼近与投影](https://www.jianshu.com/p/0991521177c3)  
 
-[3. 
+[3. 十分钟理解Umap是什么——适合反复观看学习](https://www.bilibili.com/video/BV1qB4y1p7CF/)  
+
+[4. 
