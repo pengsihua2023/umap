@@ -4,4 +4,4 @@
 
 [3. 十分钟理解Umap是什么——适合反复观看学习](https://www.bilibili.com/video/BV1qB4y1p7CF/)  
 
-[4. 【UMAP算法】高维可视化哪家强，万字长文不再迷茫](
+[4. 【UMAP算法】高维可视化哪家强，万字长文不再迷茫](https://www.bilibili.com/video/BV1vw411w7u6/)  
